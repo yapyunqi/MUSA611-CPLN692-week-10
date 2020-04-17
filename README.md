@@ -18,13 +18,9 @@
     - Grid
     - Tables
     - Forms
-- Carto
 
 ### Frontend Frameworks
 - [Lab](lab/lab1)
-
-### Carto (depending on outcome of vote; otherwise, docker installation)
-- [Lab](lab/lab2)
 
 ## Homework Assignment
 

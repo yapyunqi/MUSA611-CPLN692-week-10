@@ -2,7 +2,7 @@
 
 Your assignment this week is to write a detailed proposal for your final
 project. In proposing your final, try to address each of the following
-areas.
+areas. Please produce at least a paragraph which addresses the topics below
 
 ## Problem / Question
 
@@ -15,8 +15,6 @@ application speak to this problem/question?
 Geospatial applications are all about working with data. What datasets
 would you plan/like to use? If the data you'll be working with isn't
 already stored in a way that you can use, how will you be storing your data?
-(If it is too large for a javascript application, using a backend might
-be necessary)
 
 ## Technologies used
 
@@ -61,6 +59,6 @@ We've only managed to scratch the surface of the available technologies
 by which you could construct an application. What use-cases haven't we covered
 that you think would be useful? What technologies not covered seem exciting to
 you (you don't necessarily have to fully understand what they're for,
-this is a chance for you to get our help interpreting a technology's
+this is a chance for you to get help interpreting a technology's
 purpose/usage).
 

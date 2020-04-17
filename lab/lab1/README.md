@@ -8,6 +8,8 @@ frontend library. For this assignment, you do not need to make the style (color,
 the screens exactly.
 
 Below are four frontend frameworks to choose from. Pick whichever looks best to you.
+I suggest Bootstrap. It has the best documentation, fantastic examples, and wide adoption
+Additionally, I've used Bootstrap's naming conventions to describe the elements you should incorporate in your lab
 
 - [Bootstrap](http://getbootstrap.com)
 - [Material Design Lite](https://getmdl.io/)
@@ -46,15 +48,6 @@ queries that will:
 
 - Make the sidebar slightly smaller and the map slightly larger when the screen width is between
   800px and 480px
-- Move the sidebar entirely and have the map take up the full screen when the width is smaller than
+- Remove the sidebar entirely and have the map take up the full screen when the width is smaller than
   480px
-
-### Stretch Goal
-
-Keep going! Try to match all of the components. If you have additional time, can
-you make the style look more similar to the screens?
-
-### Extra Stretch Goal
-
-Can you recreate the blue navigation on the left side of the screens?
 
